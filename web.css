@@ -97,9 +97,21 @@
       padding-left: 25px;
       padding-right: 25px;
       color:white;
-      display:block;
-      margin-top: 50px;
-      
+      display:block;    
+  }
 
+  .lesson-wrapper{
+    height:500px;
+    padding-bottom:80px;
+    background-color:#f7f7f7;
+  }
+
+  .heading{
+    padding-top:60px;
+    padding-bottom:30px;
+    color:#5f5d60;
   }
   
+  .heading h2{
+    font-weight:normal;
+  }
